@@ -1,0 +1,29 @@
+BASELINE:
+  0 CityExpressR      4 ->   3
+  6 CityExpressR      3 ->   2
+ 18 CityExpressR      2 ->   1
+  0 CityExpressL      0 ->   2
+ 18 CityExpressL      2 ->   3
+ 27 CityExpressL      3 ->   5
+ 31 OilR              5 ->   3
+ 34 OilR              3 ->   2
+ 41 OilR              2 ->   0
+ 41 CoalL             2 ->   3
+ 48 CoalL             3 ->   4
+ 48 LumberR           3 ->   2
+ 55 LumberR           2 ->   0
+
+ IMPROVED:
+ 0 CityExpressR      4 ->   3
+ 0 CityExpressL      0 ->   2
+ 0 OilR              5 ->   3
+ 0 CoalL             2 ->   3
+ 7 LumberR           3 ->   2
+14 OilR              3 ->   2
+21 CityExpressL      2 ->   3
+30 CityExpressR      3 ->   2
+ 7 CoalL             3 ->   4
+14 LumberR           2 ->   0
+21 OilR              2 ->   0
+30 CityExpressL      3 ->   5
+42 CityExpressR      2 ->   1

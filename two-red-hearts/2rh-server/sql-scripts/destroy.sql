@@ -1,0 +1,17 @@
+DELETE FROM User;
+DELETE FROM Location;
+DELETE FROM HobbyTag;
+
+DROP PROCEDURE ;
+
+DROP VIEW TakenRegistrationView;
+
+DROP TABLE TempUser;
+DROP TABLE Follow;
+DROP TABLE Appear;
+DROP TABLE UserHobby;
+DROP TABLE Message;
+DROP TABLE Rank;
+DROP TABLE HobbyTag;
+DROP TABLE Location;
+DROP TABLE User;

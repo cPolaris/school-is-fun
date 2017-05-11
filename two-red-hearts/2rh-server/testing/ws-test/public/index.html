@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+
+        }
+
+        #gglmap {
+            height: 640px;
+            width: 640px;
+        }
+    </style>
+</head>
+<body>
+<h3>My Google Maps Demo</h3>
+<div id="gglmap"></div>
+<script>
+  const ws = new WebSocket('ws://localhost:2000');
+
+  function initMap() {
+    const gglmap = new google.maps.Map(document.getElementById('gglmap'), {
+      zoom: 14,
+      center: {lat: 40.107944, lng: -88.228972}
+    });
+
+    setInterval(function () {
+      navigator.geolocation.getCurrentPosition(function (pos) {
+        new google.maps.Marker({
+          position: {lat: pos.coords.latitude, lng: pos.coords.longitude},
+          map: gglmap
+        });
+      });
+    }, 5000);
+  }
+</script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIQz2AKTwylEskuP4qqu8S1_O69ut8K9g&callback=initMap">
+</script>
+</body>
+</html>

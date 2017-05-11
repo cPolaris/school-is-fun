@@ -1,0 +1,195 @@
+Accountancy - BUS
+Acting - FAA
+Actuarial Science - LAS
+Advertising - COM
+Aerospace Engineering - ENG
+African American Studies - LAS
+Agri-Accounting - ACES
+Agribusiness, Markets & Management - ACES
+Agricultural & Biological Engineering - ACES
+Agricultural & Biological Engineering - ENG
+Agricultural & Consumer Economics - ACES
+Agricultural Communications - ACES
+Agricultural Leadership Education - ACES
+Agricultural Science Education - ACES
+Agroecology - ACES
+Animal Sciences - ACES
+Anthropology - LAS
+Architectural Studies - FAA
+Art Education (K-12) - FAA
+Art History - FAA
+Asian American Studies - LAS
+Astronomy - LAS
+Atmospheric Sciences - LAS
+Audiology - AHS
+Biochemistry - LAS
+Bioengineering - ENG
+Biological Sciences (Crop Sciences) - ACES
+Biology - LAS
+Business Process Management - BUS
+Chemical & Biomolecular Engineering - LAS
+Chemistry - LAS
+Child & Adolescent Development - ACES
+Civil Engineering - ENG
+Classical Archaeology^ - LAS
+Classical Civilization^ - LAS
+Classics - LAS
+Communication - LAS
+Community Health - AHS
+Companion Animal & Equine Science - ACES
+Comparative & World Literature - LAS
+Computer Engineering - ENG
+Computer Science - ENG
+Computer Science & Anthropology - LAS
+Computer Science & Astronomy - LAS
+Computer Science & Chemistry - LAS
+Computer Science & Linguistics - LAS
+Consumer Economics & Finance - ACES
+Costume Design & Technology - FAA
+Crafts: Ceramics - FAA
+Crafts: Metals - FAA
+Creative Writing - LAS
+Crop Agribusiness - ACES
+Crop Sciences - ACES
+Crops - ACES
+Cultural Linguistic Diversity - AHS
+Dance - FAA
+Dietetics - ACES
+Early Childhood Education (Birth-Grade 2) - EDU
+Earth, Society & Environmental Sustainability - LAS
+East Asian Languages & Cultures - LAS
+Economics - LAS
+Electrical Engineering - ENG
+Elementary Education (Grades 1-6) - EDU
+Engineering Mechanics - ENG
+Engineering Physics - ENG
+English - LAS
+Entrepreneurship - BUS
+Environmental Economics & Policy - ACES
+Family Studies - ACES
+Farm Management - ACES
+Finance - BUS
+Finance in Agri-Business - ACES
+Financial Planning - ACES
+Fish & Wildlife Conservation - ACES
+Food Science - ACES
+Food Science & Human Nutrition - ACES
+French - LAS
+Gender & Women's Studies - LAS
+Geography & Geographic Information Science - LAS
+Geology - LAS
+Germanic Languages & Literature - LAS
+Global Change & Landscape Dynamics - ACES
+Global Studies - LAS
+Graphic Design - FAA
+Greek^ - LAS
+Health Education & Promotion - AHS
+Health Planning & Administration - AHS
+Health Sciences, Interdisciplinary  - AHS
+History - LAS
+History of Art - LAS
+Horticultural Food Systems - ACES
+Hospitality Management - ACES
+Human Development & Family Studies - ACES
+Human Dimensions of the Environment - ACES
+Human Nutrition - ACES
+Industrial Design - FAA
+Industrial Engineering - ENG
+Information Systems & Information Technology - BUS
+Integrative Biology - LAS
+Interdisciplinary Studies - LAS
+International Business - BUS
+Italian - LAS
+Jazz Studies - FAA
+Jewish Studies - LAS
+Journalism - COM
+Kinesiology - AHS
+Kinesiology - Physical Education (K-12) - AHS
+Landscape Architecture  - FAA
+Latin^ - LAS
+Latin American Studies - LAS
+Latina/Latino Studies - LAS
+Learning & Education Studies - EDU
+Lighting Design - FAA
+Linguistics - LAS
+Management - BUS
+Marketing - BUS
+Materials Science & Engineering - ENG
+Mathematics - LAS
+Mathematics & Computer Science - LAS
+Mechanical Engineering - ENG
+Media & Cinema Studies - COM
+Medieval Civilization - LAS
+Middle Grades Education (Grades 5-8) - EDU
+Molecular & Cellular Biology - LAS
+Music - FAA
+Music Composition Theory - FAA
+Music Education (K-12) - FAA
+Music Instrumental Performance - FAA
+Music Open Studies - FAA
+Music Voice Performance - FAA
+Musicology - FAA
+Natural Resources & Environmental Sciences - ACES
+Neuroscience of Communication - AHS
+New Media - FAA
+Nuclear, Plasma & Radiological Engineering - ENG
+Nursing^^ - NUR
+Painting - FAA
+Philosophy - LAS
+Photography - FAA
+Physics - LAS
+Plant Biotechnology & Molecular Biology - ACES
+Plant Protection  - ACES
+Policy, International Trade & Development - ACES
+Political Science - LAS
+Portuguese - LAS
+Psychology - LAS
+Public Policy & Law - ACES
+Recreation Management - AHS
+Recreation, Sport & Tourism - AHS
+Rehabilitation Studies - AHS
+Religion - LAS
+Resource Conservation & Restoration Ecology - ACES
+Russian, East European & Eurasian Studies - LAS
+Scenic Design - FAA
+Scenic Technology - FAA
+Science, Pre-Veterinary & Medical - ACES
+Sculpture - FAA
+Secondary Education - LAS
+Secondary Education: Agricultural - ACES
+Secondary Education: Biology - LAS
+Secondary Education: Chemistry - LAS
+Secondary Education: Earth Science - LAS
+Secondary Education: English  - LAS
+Secondary Education: Mathematics - LAS
+Secondary Education: Physics - LAS
+Secondary Education: Social Studies - LAS
+Slavic Studies - LAS
+Social Work - SSW
+Sociology - LAS
+Sound Design & Technology - FAA
+Spanish - LAS
+Special Education - EDU
+Speech & Hearing Science - AHS
+Speech Language Pathology - AHS
+Sport Management - AHS
+Stage Management - FAA
+Statistics - LAS
+Statistics & Computer Science - LAS
+Supply Chain Management - BUS
+Systems Engineering and Design (formerly General Engineering) - ENG
+Teacher Education: Art (K-12) - FAA
+Teacher Education: French (K-12) - LAS
+Teacher Education: German (K-12) - LAS
+Teacher Education: Japanese (K-12) - LAS
+Teacher Education: Kinesiology - Physical Education (K-12) - AHS
+Teacher Education: Latin (K-12) - LAS
+Teacher Education: Mandarin Chinese (K-12) - LAS
+Teacher Education: Spanish (K-12) - LAS
+Technical Systems Management - ACES
+Technology & Management (Animal Sciences) - ACES
+Theatre - FAA
+Theatre Studies - FAA
+Tourism Management - AHS
+Undeclared - DGS
+Urban Studies & Planning - FAA

@@ -1,0 +1,61 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>test</title>
+    <link rel="stylesheet" href="https://unpkg.com/vue-material/dist/vue-material.css">
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://unpkg.com/vue-material"></script>
+</head>
+<body>
+<div id="app">
+    <form @submit.stop.prevent="submit">
+        <md-input-container>
+            <label>Text Field</label>
+            <md-input v-model="textField"></md-input>
+        </md-input-container>
+        <md-input-container>
+            <label>File Upload</label>
+            <md-file v-model="filename" @selected="onFileUpload($event)"></md-file>
+        </md-input-container>
+        <input type="submit" title="fuck!"/>
+    </form>
+</div>
+<script>
+  Vue.use(VueMaterial);
+  var app = new Vue({
+    el: '#app',
+    data: {
+      textField: 'dajizi',
+      filename: '',
+      file: null
+    },
+    methods: {
+      onFileUpload (e) {
+        this.file = e[0]
+      },
+      submit: function () {
+        console.log(this.textField);
+        console.log(this.file);
+        var request = new XMLHttpRequest();
+        var fd = new FormData();
+
+        request.onreadystatechange = handleCallback;
+        request.open('POST', '/upload');
+
+        fd.append('avatar', this.file);
+        request.send(fd);
+
+        function handleCallback() {
+          if (request.readyState === XMLHttpRequest.DONE) {
+            console.log(request.responseText);
+          }
+        }
+      }
+    }
+  });
+</script>
+</body>
+</html>

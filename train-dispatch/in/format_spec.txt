@@ -1,0 +1,35 @@
+# Scale factor: how many miles equal 1 unit length used in the
+# coordinates for the station's location
+1.67
+
+# Part 1/3: Vertices
+# number of vertices followed by the index and name of each vertex
+# then two doubles indicating the coordinate of its location
+# name: 5 uppercase letters
+2
+0 ASTTN 1.0 1.0
+1 BSTTN 2.0 4.0
+
+
+# Part 2/3: Edges
+# number of edges followed by the connection and weight of each edge
+2
+0 1 100.4
+1 0 100.4
+
+
+# Part 3/3: Trains
+# number of trains followed by each train with properties specified in the following order:
+# <Name/ID: string with no space>
+# <Departure timeStart: int>
+# <From index: int>
+# <To index: int>
+# <type: TRAIN_TYPE. P: passenger, F: freight, A: priority>
+# <Train railLen: double (miles)>
+# <Speed: double (miles per tick)>
+# <Cost per mile: double>
+# <Cost per idle tick: double>
+3
+Acela      0 0 1 P 0.28 020.7 50.0 20.0
+Shall_Oil  0 0 1 F 0.83 016.0 89.0 04.0
+Shinkansen 1 1 0 P 0.20 030.0 48.0 23.4

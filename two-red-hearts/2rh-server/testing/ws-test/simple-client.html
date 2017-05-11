@@ -1,0 +1,22 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>WS test</title>
+</head>
+<body>
+<script>
+  const ws = new WebSocket('ws://localhost:2000');
+
+  ws.onopen = (evt) => {
+    ws.send('dajizi');
+  };
+
+  ws.onclose = (evt) => {
+    ws.send('fuck fuck fuck');
+  };
+</script>
+</body>
+</html>

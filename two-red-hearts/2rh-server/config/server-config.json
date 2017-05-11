@@ -1,0 +1,21 @@
+{
+  "db": {
+    "host": "localhost",
+    "charset": "utf8mb4_unicode_ci",
+    "database": "2rh",
+    "user": "star",
+    "password": "dajizi"
+  },
+  "serverPort": 8080,
+  "emailEnabled": true,
+  "maxAvatarSize":   512000,
+  "maxHttpBodySize": 524288,
+  "registerMailTemplatePath": "/home/star/server/utils/register-email-template.html",
+  "cfPath": "/Users/cpolaris/dev/TwoRedHearts/expressback/scripts/content_filter.py",
+  "ADMIN_EMAIL": "tc2@illinois.edu",
+  "FAKE_TOKEN": "1bf120a2e90fb6500eb317ef347ca3b1de0190ed1d697ac22c94568a3a40cf8a",
+  "REGISTER_URL_BASE": "https://2rh.date/#/usersregv/",
+  "TIRED": "お疲れ様でした!",
+  "DEFAULT_AVATAR_URL": "/static/avatar/default.jpg",
+  "OK": "さよならいつか..."
+}

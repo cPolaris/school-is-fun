@@ -1,0 +1,18 @@
+INSERT INTO HobbyTag (title) VALUES
+  ('Fueled by music'),
+  ('Feeds on books'),
+  ('Feeds on Netflix (or similar)'),
+  ('PC master race'),
+  ('Console gamer'),
+  ('No waifu no laifu'),
+  ('Seriouly social 🎉'),
+  ('एÖl丫glДヒ (polyglot)'),
+  ('Gym = ❤️'),
+  ('Runner'),
+  ('🍔🥓🥓🥓🌮🌯🍖🍖🍖🍔'),
+  ('🍎🍊🍋🍌🍉🍇🍓🥑🥗'),
+  ('🎺🎸🎻🥁🎷🎹🎼'),
+  ('🏀⚽️🏈⚾️🎾🏐🏓🏸🏒'),
+  ('🐶🐱🐕🐈🐢🕊🐇🦎🦄 (pets)'),
+  ('Would rather go sleep'),
+  ('Other');
