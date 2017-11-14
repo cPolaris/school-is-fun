@@ -1,4 +1,6 @@
-![Cover Picture](https://raw.githubusercontent.com/cPolaris/TrainDispatch/master/assets/Train-States.png)
+![menu](assets/1.jpg)
+![animation](assets/2.jpg)
+![Train-States](assets/Train-States.png)
 
 Report: project-report/report.pdf
 
